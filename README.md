@@ -36,4 +36,4 @@ Model disimpan dalam **tiga format**:
 ###  Kesimpulan
 Model CNN yang dibangun mampu mengklasifikasikan rambu lalu lintas dengan akurasi tinggi. Proyek ini menunjukkan penerapan Computer Vision dalam domain lalu lintas yang potensial untuk dikembangkan ke sistem navigasi, edukasi pengemudi, dan kendaraan otonom.
 
-#### Proyek Final Belajar Pengembangan Machine Learning
+##### Proyek Final Belajar Pengembangan Machine Learning
