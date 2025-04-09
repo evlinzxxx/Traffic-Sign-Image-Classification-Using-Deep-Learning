@@ -33,7 +33,7 @@ Model disimpan dalam **tiga format**:
 - `TF-Lite` → Untuk perangkat mobile
 - `TFJS` → Untuk digunakan di web dengan TensorFlow.js
 
-### 📌 Kesimpulan
+###  Kesimpulan
 Model CNN yang dibangun mampu mengklasifikasikan rambu lalu lintas dengan akurasi tinggi. Proyek ini menunjukkan penerapan Computer Vision dalam domain lalu lintas yang potensial untuk dikembangkan ke sistem navigasi, edukasi pengemudi, dan kendaraan otonom.
 
 #### Proyek Final Belajar Pengembangan Machine Learning
